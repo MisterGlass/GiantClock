@@ -1,0 +1,2 @@
+4x HD-K121 (2 digit 7seg display)
+8x TLC5916/17 (shift register)
