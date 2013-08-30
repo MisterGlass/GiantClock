@@ -52,7 +52,7 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
@@ -108,6 +108,10 @@
 </layers>
 <board>
 <plain>
+<hole x="3.175" y="22.225" drill="3.2"/>
+<hole x="123.825" y="22.225" drill="3.2"/>
+<hole x="124.46" y="1.905" drill="3.2"/>
+<hole x="3.175" y="3.175" drill="3.2"/>
 </plain>
 <libraries>
 <library name="BillPorter">
@@ -1507,26 +1511,6 @@ W = angled&lt;p&gt;
 </package>
 </packages>
 </library>
-<library name="holes">
-<description>&lt;b&gt;Mounting Holes and Pads&lt;/b&gt;&lt;p&gt;
-&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
-<packages>
-<package name="3,2">
-<description>&lt;b&gt;MOUNTING HOLE&lt;/b&gt; 3.2 mm with drill center</description>
-<wire x1="-2.159" y1="0" x2="0" y2="-2.159" width="2.4892" layer="51" curve="90" cap="flat"/>
-<wire x1="0" y1="2.159" x2="2.159" y2="0" width="2.4892" layer="51" curve="-90" cap="flat"/>
-<circle x="0" y="0" radius="3.429" width="0.1524" layer="21"/>
-<circle x="0" y="0" radius="0.762" width="0.4572" layer="51"/>
-<circle x="0" y="0" radius="3.048" width="2.032" layer="39"/>
-<circle x="0" y="0" radius="3.048" width="2.032" layer="43"/>
-<circle x="0" y="0" radius="3.048" width="2.032" layer="40"/>
-<circle x="0" y="0" radius="3.048" width="2.032" layer="41"/>
-<circle x="0" y="0" radius="3.048" width="2.032" layer="42"/>
-<circle x="0" y="0" radius="1.7" width="0.2032" layer="21"/>
-<hole x="0" y="0" drill="3.2"/>
-</package>
-</packages>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -1755,10 +1739,6 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="MF" value="" x="59.69" y="34.29" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="59.69" y="34.29" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="H1" library="holes" package="3,2" value="MOUNT-HOLE3.2" x="5.08" y="-5.08"/>
-<element name="H2" library="holes" package="3,2" value="MOUNT-HOLE3.2" x="5.08" y="-13.97"/>
-<element name="H3" library="holes" package="3,2" value="MOUNT-HOLE3.2" x="5.08" y="-22.86"/>
-<element name="H4" library="holes" package="3,2" value="MOUNT-HOLE3.2" x="5.08" y="-31.75"/>
 </elements>
 <signals>
 <signal name="N$11">
