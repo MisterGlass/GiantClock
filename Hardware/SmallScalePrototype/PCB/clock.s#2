@@ -4335,8 +4335,8 @@ W = angled&lt;p&gt;
 <wire x1="-149.86" y1="58.42" x2="-152.4" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT6"/>
-<wire x1="-165.1" y1="53.34" x2="-162.56" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT1"/>
+<wire x1="-177.8" y1="53.34" x2="-175.26" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES0" class="0">
@@ -4345,8 +4345,8 @@ W = angled&lt;p&gt;
 <wire x1="-147.32" y1="58.42" x2="-144.78" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT0"/>
-<wire x1="-134.62" y1="53.34" x2="-137.16" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT6"/>
+<wire x1="-119.38" y1="53.34" x2="-121.92" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES1" class="0">
@@ -4355,8 +4355,8 @@ W = angled&lt;p&gt;
 <wire x1="-144.78" y1="58.42" x2="-142.24" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT1"/>
-<wire x1="-132.08" y1="53.34" x2="-134.62" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT7"/>
+<wire x1="-116.84" y1="53.34" x2="-119.38" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES2" class="0">
@@ -4365,8 +4365,8 @@ W = angled&lt;p&gt;
 <wire x1="-142.24" y1="58.42" x2="-139.7" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT2"/>
-<wire x1="-129.54" y1="53.34" x2="-132.08" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT0"/>
+<wire x1="-134.62" y1="53.34" x2="-137.16" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES3" class="0">
@@ -4375,8 +4375,8 @@ W = angled&lt;p&gt;
 <wire x1="-139.7" y1="58.42" x2="-137.16" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT3"/>
-<wire x1="-127" y1="53.34" x2="-129.54" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT2"/>
+<wire x1="-129.54" y1="53.34" x2="-132.08" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES4" class="0">
@@ -4385,8 +4385,8 @@ W = angled&lt;p&gt;
 <wire x1="-137.16" y1="58.42" x2="-134.62" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT4"/>
-<wire x1="-124.46" y1="53.34" x2="-127" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT3"/>
+<wire x1="-127" y1="53.34" x2="-129.54" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSONES5" class="0">
@@ -4405,8 +4405,8 @@ W = angled&lt;p&gt;
 <wire x1="-132.08" y1="58.42" x2="-129.54" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="OUT6"/>
-<wire x1="-119.38" y1="53.34" x2="-121.92" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="OUT1"/>
+<wire x1="-132.08" y1="53.34" x2="-134.62" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS5" class="0">
@@ -4415,8 +4415,8 @@ W = angled&lt;p&gt;
 <wire x1="-152.4" y1="58.42" x2="-154.94" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT5"/>
-<wire x1="-167.64" y1="53.34" x2="-165.1" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT0"/>
+<wire x1="-180.34" y1="53.34" x2="-177.8" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS4" class="0">
@@ -4425,8 +4425,8 @@ W = angled&lt;p&gt;
 <wire x1="-154.94" y1="58.42" x2="-157.48" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT4"/>
-<wire x1="-170.18" y1="53.34" x2="-167.64" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT7"/>
+<wire x1="-162.56" y1="53.34" x2="-160.02" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS3" class="0">
@@ -4435,8 +4435,8 @@ W = angled&lt;p&gt;
 <wire x1="-157.48" y1="58.42" x2="-160.02" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT3"/>
-<wire x1="-172.72" y1="53.34" x2="-170.18" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT6"/>
+<wire x1="-165.1" y1="53.34" x2="-162.56" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS2" class="0">
@@ -4445,8 +4445,8 @@ W = angled&lt;p&gt;
 <wire x1="-160.02" y1="58.42" x2="-162.56" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT2"/>
-<wire x1="-175.26" y1="53.34" x2="-172.72" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT5"/>
+<wire x1="-167.64" y1="53.34" x2="-165.1" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS1" class="0">
@@ -4455,8 +4455,8 @@ W = angled&lt;p&gt;
 <wire x1="-162.56" y1="58.42" x2="-165.1" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT1"/>
-<wire x1="-177.8" y1="53.34" x2="-175.26" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT3"/>
+<wire x1="-172.72" y1="53.34" x2="-170.18" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAYSTENS0" class="0">
@@ -4465,8 +4465,8 @@ W = angled&lt;p&gt;
 <wire x1="-165.1" y1="58.42" x2="-167.64" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="OUT0"/>
-<wire x1="-180.34" y1="53.34" x2="-177.8" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="OUT2"/>
+<wire x1="-175.26" y1="53.34" x2="-172.72" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS6" class="0">
@@ -4475,8 +4475,8 @@ W = angled&lt;p&gt;
 <wire x1="-48.26" y1="58.42" x2="-50.8" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT6"/>
-<wire x1="-63.5" y1="53.34" x2="-60.96" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT1"/>
+<wire x1="-76.2" y1="53.34" x2="-73.66" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS5" class="0">
@@ -4485,8 +4485,8 @@ W = angled&lt;p&gt;
 <wire x1="-50.8" y1="58.42" x2="-53.34" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT5"/>
-<wire x1="-66.04" y1="53.34" x2="-63.5" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT0"/>
+<wire x1="-78.74" y1="53.34" x2="-76.2" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS4" class="0">
@@ -4495,8 +4495,8 @@ W = angled&lt;p&gt;
 <wire x1="-53.34" y1="58.42" x2="-55.88" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT4"/>
-<wire x1="-68.58" y1="53.34" x2="-66.04" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT7"/>
+<wire x1="-60.96" y1="53.34" x2="-58.42" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS3" class="0">
@@ -4505,8 +4505,8 @@ W = angled&lt;p&gt;
 <wire x1="-55.88" y1="58.42" x2="-58.42" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT3"/>
-<wire x1="-71.12" y1="53.34" x2="-68.58" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT6"/>
+<wire x1="-63.5" y1="53.34" x2="-60.96" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS2" class="0">
@@ -4515,8 +4515,8 @@ W = angled&lt;p&gt;
 <wire x1="-58.42" y1="58.42" x2="-60.96" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT2"/>
-<wire x1="-73.66" y1="53.34" x2="-71.12" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT5"/>
+<wire x1="-66.04" y1="53.34" x2="-63.5" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS1" class="0">
@@ -4525,8 +4525,8 @@ W = angled&lt;p&gt;
 <wire x1="-60.96" y1="58.42" x2="-63.5" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT1"/>
-<wire x1="-76.2" y1="53.34" x2="-73.66" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT3"/>
+<wire x1="-71.12" y1="53.34" x2="-68.58" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSTENS0" class="0">
@@ -4535,8 +4535,8 @@ W = angled&lt;p&gt;
 <wire x1="-63.5" y1="58.42" x2="-66.04" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$3" gate="G$1" pin="OUT0"/>
-<wire x1="-78.74" y1="53.34" x2="-76.2" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="OUT2"/>
+<wire x1="-73.66" y1="53.34" x2="-71.12" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES0" class="0">
@@ -4545,8 +4545,8 @@ W = angled&lt;p&gt;
 <wire x1="-45.72" y1="58.42" x2="-43.18" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT0"/>
-<wire x1="-33.02" y1="53.34" x2="-35.56" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT6"/>
+<wire x1="-17.78" y1="53.34" x2="-20.32" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES1" class="0">
@@ -4555,8 +4555,8 @@ W = angled&lt;p&gt;
 <wire x1="-43.18" y1="58.42" x2="-40.64" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT1"/>
-<wire x1="-30.48" y1="53.34" x2="-33.02" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT7"/>
+<wire x1="-15.24" y1="53.34" x2="-17.78" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES2" class="0">
@@ -4565,8 +4565,8 @@ W = angled&lt;p&gt;
 <wire x1="-40.64" y1="58.42" x2="-38.1" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT2"/>
-<wire x1="-27.94" y1="53.34" x2="-30.48" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT0"/>
+<wire x1="-33.02" y1="53.34" x2="-35.56" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES3" class="0">
@@ -4575,8 +4575,8 @@ W = angled&lt;p&gt;
 <wire x1="-38.1" y1="58.42" x2="-35.56" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT3"/>
-<wire x1="-25.4" y1="53.34" x2="-27.94" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT2"/>
+<wire x1="-27.94" y1="53.34" x2="-30.48" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES4" class="0">
@@ -4585,8 +4585,8 @@ W = angled&lt;p&gt;
 <wire x1="-35.56" y1="58.42" x2="-33.02" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT4"/>
-<wire x1="-22.86" y1="53.34" x2="-25.4" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT3"/>
+<wire x1="-25.4" y1="53.34" x2="-27.94" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="HOURSONES5" class="0">
@@ -4605,8 +4605,8 @@ W = angled&lt;p&gt;
 <wire x1="-30.48" y1="58.42" x2="-27.94" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="OUT6"/>
-<wire x1="-17.78" y1="53.34" x2="-20.32" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$4" gate="G$1" pin="OUT1"/>
+<wire x1="-30.48" y1="53.34" x2="-33.02" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS0" class="0">
@@ -4615,8 +4615,8 @@ W = angled&lt;p&gt;
 <wire x1="38.1" y1="58.42" x2="35.56" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT0"/>
-<wire x1="22.86" y1="53.34" x2="25.4" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT2"/>
+<wire x1="27.94" y1="53.34" x2="30.48" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS1" class="0">
@@ -4625,8 +4625,8 @@ W = angled&lt;p&gt;
 <wire x1="40.64" y1="58.42" x2="38.1" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT1"/>
-<wire x1="25.4" y1="53.34" x2="27.94" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT3"/>
+<wire x1="30.48" y1="53.34" x2="33.02" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS2" class="0">
@@ -4635,8 +4635,8 @@ W = angled&lt;p&gt;
 <wire x1="43.18" y1="58.42" x2="40.64" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT2"/>
-<wire x1="27.94" y1="53.34" x2="30.48" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT5"/>
+<wire x1="35.56" y1="53.34" x2="38.1" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS3" class="0">
@@ -4645,8 +4645,8 @@ W = angled&lt;p&gt;
 <wire x1="45.72" y1="58.42" x2="43.18" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT3"/>
-<wire x1="30.48" y1="53.34" x2="33.02" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT6"/>
+<wire x1="38.1" y1="53.34" x2="40.64" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS4" class="0">
@@ -4655,8 +4655,8 @@ W = angled&lt;p&gt;
 <wire x1="48.26" y1="58.42" x2="45.72" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT4"/>
-<wire x1="33.02" y1="53.34" x2="35.56" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT7"/>
+<wire x1="40.64" y1="53.34" x2="43.18" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS5" class="0">
@@ -4665,8 +4665,8 @@ W = angled&lt;p&gt;
 <wire x1="50.8" y1="58.42" x2="48.26" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT5"/>
-<wire x1="35.56" y1="53.34" x2="38.1" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT0"/>
+<wire x1="22.86" y1="53.34" x2="25.4" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESTENS6" class="0">
@@ -4675,8 +4675,8 @@ W = angled&lt;p&gt;
 <wire x1="53.34" y1="58.42" x2="50.8" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$5" gate="G$1" pin="OUT6"/>
-<wire x1="38.1" y1="53.34" x2="40.64" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$5" gate="G$1" pin="OUT1"/>
+<wire x1="25.4" y1="53.34" x2="27.94" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES0" class="0">
@@ -4685,8 +4685,8 @@ W = angled&lt;p&gt;
 <wire x1="55.88" y1="58.42" x2="58.42" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT0"/>
-<wire x1="68.58" y1="53.34" x2="66.04" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT6"/>
+<wire x1="83.82" y1="53.34" x2="81.28" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES1" class="0">
@@ -4695,8 +4695,8 @@ W = angled&lt;p&gt;
 <wire x1="58.42" y1="58.42" x2="60.96" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT1"/>
-<wire x1="71.12" y1="53.34" x2="68.58" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT7"/>
+<wire x1="86.36" y1="53.34" x2="83.82" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES2" class="0">
@@ -4705,8 +4705,8 @@ W = angled&lt;p&gt;
 <wire x1="60.96" y1="58.42" x2="63.5" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT2"/>
-<wire x1="73.66" y1="53.34" x2="71.12" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT0"/>
+<wire x1="68.58" y1="53.34" x2="66.04" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES3" class="0">
@@ -4715,8 +4715,8 @@ W = angled&lt;p&gt;
 <wire x1="63.5" y1="58.42" x2="66.04" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT3"/>
-<wire x1="76.2" y1="53.34" x2="73.66" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT2"/>
+<wire x1="73.66" y1="53.34" x2="71.12" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES4" class="0">
@@ -4725,8 +4725,8 @@ W = angled&lt;p&gt;
 <wire x1="66.04" y1="58.42" x2="68.58" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT4"/>
-<wire x1="78.74" y1="53.34" x2="76.2" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT3"/>
+<wire x1="76.2" y1="53.34" x2="73.66" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="MINUTESONES5" class="0">
@@ -4745,8 +4745,8 @@ W = angled&lt;p&gt;
 <wire x1="71.12" y1="58.42" x2="73.66" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$6" gate="G$1" pin="OUT6"/>
-<wire x1="83.82" y1="53.34" x2="81.28" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$6" gate="G$1" pin="OUT1"/>
+<wire x1="71.12" y1="53.34" x2="68.58" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SECONDSTENS0" class="0">
